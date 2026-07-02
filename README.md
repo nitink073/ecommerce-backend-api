@@ -91,9 +91,7 @@ db.js
 
 # 🗄 Database Schema
 
-> ER Diagram
-
-(Add the ER diagram image here later.)
+![ER Diagram](database/er-diagram.png)
 
 ---
 
