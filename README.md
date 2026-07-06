@@ -143,8 +143,63 @@ GET `/reviews/product/:id`
 
 # 📸 API Screenshots
 
-(Add Postman screenshots here later.)
+### User Registration
 
+![User Registration](assets/register-api.png)
+
+---
+
+### User Login
+
+![User Login](assets/login-api.png)
+
+---
+
+### Create Category
+
+![Create Category](assets/create-category.png)
+
+---
+
+### Create Product
+
+![Create Product](assets/create-product.png)
+
+---
+
+### Get Products
+
+![Get Products](assets/get-products.png)
+
+---
+
+### Add to Cart
+
+![Add to Cart](assets/add-to-cart.png)
+
+---
+
+### Get Cart
+
+![Get Cart](assets/get-cart.png)
+
+---
+
+### Create Order
+
+![Create Order](assets/create-order.png)
+
+---
+
+### Get Orders
+
+![Get Orders](assets/get-orders.png)
+
+---
+
+### Add Review
+
+![Add Review](assets/add-review.png)
 ---
 
 # ⚙️ Installation
