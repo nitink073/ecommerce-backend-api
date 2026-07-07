@@ -89,12 +89,6 @@ db.js
 
 ---
 
-# 🗄 Database Schema
-
-![ER Diagram](database/er-diagram.png)
-
----
-
 # 📡 API Endpoints
 
 ## Authentication
